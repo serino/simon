@@ -1,0 +1,1 @@
+This app is an online version of the game Simon. Press the START button. Simon will give you the first signal. Repeat the signal by pressing the same color lens. If you fail to repeat a sequence exactly, you lose.

@@ -1,0 +1,29 @@
+.square {
+  width: 150px;
+  height: 150px;
+  border: solid;
+  display: inline-block;
+  opacity: 0.5;
+}
+
+.selected{
+    opacity: 1;
+
+}
+
+#square1 {
+  background-color: green;
+}
+
+#square2 {
+  background-color: red;
+}
+
+#square3 {
+  background-color:yellow;
+}
+
+#square4 {
+  background-color: blue;
+}
+
